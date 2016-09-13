@@ -1,7 +1,7 @@
 # hunter
 python-pygame实现的2d框架GameFrame+游戏原型《追猎者》
- ![image](https://github.com/intelHEART/hunter/blob/master/hunter_start.png)
- ![image](https://github.com/intelHEART/hunter/blob/master/hunter_processing.png)
+
+##RUN drawmapanimation.py 
 
 游戏基础设计过程：
 
@@ -25,3 +25,6 @@ python-pygame实现的2d框架GameFrame+游戏原型《追猎者》
         改进：
 
         游戏中的追杀能力来自于一把具有时间限制的宝剑，当这把宝剑时间限制过后，它便会消失，然后在另一个地方出现，获得宝剑的玩家获得秒杀能力，即上位为追猎者。
+
+ ![image](https://github.com/intelHEART/hunter/blob/master/hunter_start.png)
+ ![image](https://github.com/intelHEART/hunter/blob/master/hunter_processing.png)
